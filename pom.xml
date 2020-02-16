@@ -11,7 +11,6 @@
 
     <repositories>
         <!-- jhipster-needle-maven-repository -->
-        <!-- testing travis ci -->
     </repositories>
 
     <pluginRepositories>
